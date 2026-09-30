@@ -13,11 +13,11 @@ The project demonstrates the complete machine learning workflow from data prepro
 
 ---
 
-## team member
-Shreenidhi N P
-Shamrrin Baanu S
-Dhanushiya A
-Francis Denisa A
+## Team Members
+- **Shreenidhi N P**
+- **Shamrrin Baanu S**
+- **Dhanushiya A**
+- **Francis Denisa A**
 
 
 ## 🎯 Objectives
