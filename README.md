@@ -1,4 +1,4 @@
-# Financial Transaction Fraud Detection Using Deep Neural Networks
+## Stock Market Fraud Detection Using Deep Neural Networks
 
 ## 📌 Project Overview
 
@@ -12,6 +12,13 @@ The model analyzes transaction-related features such as transaction amount, coun
 The project demonstrates the complete machine learning workflow from data preprocessing to model training and evaluation.
 
 ---
+
+## team member
+Shreenidhi N P
+Shamrrin Baanu S
+Dhanushiya A
+Francis Denisa A
+
 
 ## 🎯 Objectives
 
