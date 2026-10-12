@@ -1,5 +1,11 @@
 ## Stock Market Fraud Detection Using Deep Neural Networks
 
+## Team Members
+- **Shreenidhi N P**
+- **Shamrrin Baanu S**
+- **Dhanushiya A**
+- **Francis Denisa A**
+
 ## 📌 Project Overview
 
 This project uses a Deep Neural Network (DNN) to detect fraudulent financial transactions.
@@ -12,12 +18,6 @@ The model analyzes transaction-related features such as transaction amount, coun
 The project demonstrates the complete machine learning workflow from data preprocessing to model training and evaluation.
 
 ---
-
-## Team Members
-- **Shreenidhi N P**
-- **Shamrrin Baanu S**
-- **Dhanushiya A**
-- **Francis Denisa A**
 
 
 ## 🎯 Objectives
